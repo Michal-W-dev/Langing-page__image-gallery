@@ -6,49 +6,49 @@ $(function() {
 
 const imgsArr = [
 	{
-		sm: 'assets/images/1.png',
-		lg: 'assets/images/1lg.png',
-		vlg: 'assets/images/1.jpg'
+		sm: 'assets/imgs/1.png',
+		lg: 'assets/imgs/1lg.png',
+		vlg: 'assets/imgs/1.jpg'
 	},
 	{
-		sm: 'assets/images/2.png',
-		lg: 'assets/images/2lg.png',
-		vlg: 'assets/images/2.jpg'
+		sm: 'assets/imgs/2.png',
+		lg: 'assets/imgs/2lg.png',
+		vlg: 'assets/imgs/2.jpg'
 	},
 	{
-		sm: 'assets/images/3.png',
-		lg: 'assets/images/3lg.png',
-		vlg: 'assets/images/3.jpg'
+		sm: 'assets/imgs/3.png',
+		lg: 'assets/imgs/3lg.png',
+		vlg: 'assets/imgs/3.jpg'
 	},
 	{
-		sm: 'assets/images/4.png',
-		lg: 'assets/images/4lg.png',
-		vlg: 'assets/images/4.jpg'
+		sm: 'assets/imgs/4.png',
+		lg: 'assets/imgs/4lg.png',
+		vlg: 'assets/imgs/4.jpg'
 	},
 	{
-		sm: 'assets/images/5.png',
-		lg: 'assets/images/5lg.png',
-		vlg: 'assets/images/5.jpg'
+		sm: 'assets/imgs/5.png',
+		lg: 'assets/imgs/5lg.png',
+		vlg: 'assets/imgs/5.jpg'
 	},
 	{
-		sm: 'assets/images/6.png',
-		lg: 'assets/images/6lg.png',
-		vlg: 'assets/images/6.jpg'
+		sm: 'assets/imgs/6.png',
+		lg: 'assets/imgs/6lg.png',
+		vlg: 'assets/imgs/6.jpg'
 	},
 	{
-		sm: 'assets/images/7.png',
-		lg: 'assets/images/7lg.png',
-		vlg: 'assets/images/7.jpg'
+		sm: 'assets/imgs/7.png',
+		lg: 'assets/imgs/7lg.png',
+		vlg: 'assets/imgs/7.jpg'
 	},
 	{
-		sm: 'assets/images/8.png',
-		lg: 'assets/images/8lg.png',
-		vlg: 'assets/images/8.jpg'
+		sm: 'assets/imgs/8.png',
+		lg: 'assets/imgs/8lg.png',
+		vlg: 'assets/imgs/8.jpg'
 	},
 	{
-		sm: 'assets/images/9.png',
-		lg: 'assets/images/9lg.png',
-		vlg: 'assets/images/9.jpg'
+		sm: 'assets/imgs/9.png',
+		lg: 'assets/imgs/9lg.png',
+		vlg: 'assets/imgs/9.jpg'
 	}
 ];
 
