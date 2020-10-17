@@ -24,7 +24,7 @@ body::-webkit-scrollbar-thumb {
 	font-size: 1.6em;
 	text-shadow: 0px 4px 3px rgba(72, 61, 139, 0.7), 0px 8px 13px rgba(0, 0, 0, 0.1);
 	/* text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.1), 0px 8px 13px rgba(0, 0, 0, 0.1); */
-	background: url('images/1.jpg') 50% 85%;
+	background: url('assets/imgs/1.jpg') 50% 85%;
 	background-size: 100%;
 	height: 450px;
 	padding-top: 100px;
