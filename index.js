@@ -74,13 +74,11 @@ for (let image of imgsArr) {
 	);
 }
 $('.card:first').css('border', '4px solid slateblue');
-// document.querySelectorAll('.card')[0].style.border = '4px solid slateblue';
 
 $('.card-img-top, .fa-camera').on('click', clickImage);
 
 $('.enlarge-image, .fa-times-circle').on('click', function() {
 	$('.enlarge-image, .fa-times-circle').addClass('hidden');
-	// this.classList.add('hidden');
 });
 
 function clickImage() {
