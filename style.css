@@ -19,11 +19,9 @@ body::-webkit-scrollbar-thumb {
 }
 .jumbotron {
 	position:relative;
-	/* color: #2c3e50; */
 	color: white;
 	font-size: 1.6em;
 	text-shadow: 0px 4px 3px rgba(72, 61, 139, 0.7), 0px 8px 13px rgba(0, 0, 0, 0.1);
-	/* text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.1), 0px 8px 13px rgba(0, 0, 0, 0.1); */
 	background: url('assets/imgs/1.jpg') 50% 85%;
 	background-size: 100%;
 	height: 450px;
@@ -49,12 +47,10 @@ body::-webkit-scrollbar-thumb {
 }
 #mainNavbar .nav-link:hover {
 	color: deeppink;
-	/* background: slateblue; */
 }
 
 #mainNavbar.navbar.scrolled {
 	background: #6649b8;
-	/* background: rgb(222, 192, 222); */
 	transition: background 0.6s;
 	text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1), 0px 8px 13px rgba(0, 0, 0, 0.1);
 	border-bottom: 2px solid crimson;
@@ -137,7 +133,6 @@ hr {
 	top: 5%;
 	right: 15%;
 	z-index:2;
-	/* border:5px solid rgb(106, 90, 205,0);; */
 	color:slateblue;
 	margin:12px;
 }
