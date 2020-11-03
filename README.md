@@ -10,6 +10,4 @@
 <br>
 <img src="assets/readme.png" width="700px">
 
-https://michal-w-dev.github.io/Langing-page__image-gallery/
-
 
